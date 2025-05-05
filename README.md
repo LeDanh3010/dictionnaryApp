@@ -1,4 +1,4 @@
-add: to add a new word
+add: to add a new word \n
 find: to find word
 edit: to edit word
 remove: to remove word
